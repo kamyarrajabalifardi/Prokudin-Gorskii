@@ -1,10 +1,8 @@
 # Prokudin-Gorskii
 In this problem we try to register 3 channels of images from ***Prokudin Gorskii*** collection. To do so, we shift channels on each other to get the best result. However, the images are so big in a way that finding the best shift is impractical. In this regard, we use a guassian image pyramid and we find the best shift in each level of pyramid and try to find the shift in the next level.
 
-<p align="center">
-  <img width="550" src="https://user-images.githubusercontent.com/46090276/205275893-eb5284d3-8543-48db-9f50-7d59ceed647a.jpg" alt="L1_L2_Norm">
-</p>
-![Capture10](https://user-images.githubusercontent.com/46090276/205276114-2c37f8e0-2f0d-4178-b007-88ddcf37eb09.JPG)
+
+![Capture10](https://user-images.githubusercontent.com/46090276/205276114-2c37f8e0-2f0d-4178-b007-88ddcf37eb09.jpg)
 
 
 <p align="center">
